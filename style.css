@@ -143,8 +143,8 @@ nav ul li:hover {
 .video-section .container {
   display: flex;
   flex-direction: column;
-  gap: 30px;
-  margin-top: 200px;
+  gap: 3px;
+  margin-top: 100px;
 }
 .hero-section,
 .video-section {
